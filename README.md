@@ -48,17 +48,20 @@ The aim is to design, implement, and analyze a D Latch using Synopsys EDA tools,
 
 ### 2. Schematic of D Latch
 
-<img width="1188" height="708" alt="WhatsApp Image 2026-11-03 at 11 21 13 AM" src="https://github.com/user-attachments/assets/661d7a95-d2ac-4ea0-a48c-7e53568ae59f" />
+<img width="766" height="640" alt="EXP4 - Schematic Circuit" src="https://github.com/user-attachments/assets/0e7079d3-601e-4262-aeb3-a910976d456a" />
+
 
 ### 3. Transient Response Setup
 
-<img width="1600" height="596" alt="WhatsApp Image 2026-11-03 at 11 22 46 AM" src="https://github.com/user-attachments/assets/99b95e2e-1770-4be0-8aa6-da0f60e871ca" />
+<img width="1534" height="816" alt="EXP4 - Transient Response Setup" src="https://github.com/user-attachments/assets/58a1e8f5-0754-408d-84c7-09e4f23ebec4" />
+
 
 ## Output
 
 ### 1. Transient Analysis Output
 
-<img width="1600" height="659" alt="WhatsApp Image 2026-11-03 at 11 21 42 AM" src="https://github.com/user-attachments/assets/1d44e4ec-c39d-4bd1-8b6d-db0b405c3a8a" />
+<img width="1534" height="646" alt="EXP4 - Output Waveform" src="https://github.com/user-attachments/assets/46158459-7e48-4325-8fe9-af00e989d789" />
+
 
 ## Results
 1. Successfully designed the D Latch using Synopsys EDA tools.
